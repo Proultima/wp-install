@@ -1,6 +1,6 @@
 {
   "name": "@proultima/wp-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for automatically installing WordPress website on XAMPP/LAMPP preinstalled OS.",
   "main": "index.js",
   "scripts": {

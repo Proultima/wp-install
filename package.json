@@ -1,0 +1,25 @@
+{
+  "name": "@proultima/wp-install",
+  "version": "1.0.0",
+  "description": "Package for automatically installing WordPress website on XAMPP/LAMPP preinstalled OS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proultima/wp-install.git"
+  },
+  "keywords": [
+    "WordPress",
+    "Virtual Host",
+    "LAMPP",
+    "XAMPP"
+  ],
+  "author": "Dusan Markovic <dmarkovic@proultima.com> (https://proultima.com/profile/dusan-markovic/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proultima/wp-install/issues"
+  },
+  "homepage": "https://github.com/Proultima/wp-install#readme"
+}
